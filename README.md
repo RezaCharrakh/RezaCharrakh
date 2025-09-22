@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **Nuxt, vue**
-
 - 📫 How to reach me **reza.charrakh1382@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
-- 🔭 I’m currently working on [Bordino](https://github.com/mehrazinmarzough/SE403-2-BoardGame)
+<h3 align="center">A passionate web developer</h3>
 
 - 🌱 I’m currently learning **Nuxt, vue**
 
